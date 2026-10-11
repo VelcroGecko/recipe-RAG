@@ -1,0 +1,10 @@
+.git
+.venv
+bin/
+models/
+eval/
+scripts/
+.env
+*.log
+__pycache__/
+*.egg-info/

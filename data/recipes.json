@@ -1,0 +1,153 @@
+{
+  "_provenance": {
+    "note": "Recipe ingredient facts and inspiration from RecipeTin Eats (Nagi Maehashi). Methods are paraphrased in our own words. Included strictly as non-commercial demo data for this RAG project; please visit the linked source pages (and buy Nagi's cookbook 'Dinner' if you like the food!).",
+    "source_site": "https://www.recipetineats.com"
+  },
+  "recipes": [
+    {
+      "id": "pad-thai",
+      "name": "Chicken Pad Thai",
+      "cuisine": "Thai",
+      "tags": ["noodles", "stir-fry", "chicken", "takeout-classic", "30min", "weeknight"],
+      "servings": "2-3",
+      "time_minutes": 30,
+      "ingredients": [
+        { "item": "dried flat rice noodles (2-3 mm)", "quantity": "125 g" },
+        { "item": "tamarind puree (not concentrate)", "quantity": "1.5 tbsp" },
+        { "item": "brown sugar (packed)", "quantity": "3 tbsp" },
+        { "item": "fish sauce", "quantity": "2 tbsp" },
+        { "item": "oyster sauce", "quantity": "1.5 tbsp" },
+        { "item": "vegetable or canola oil", "quantity": "2-3 tbsp" },
+        { "item": "onion (brown/yellow), sliced", "quantity": "1/2" },
+        { "item": "garlic cloves, finely chopped", "quantity": "2" },
+        { "item": "chicken breast or thigh, thinly sliced", "quantity": "150 g" },
+        { "item": "eggs, lightly whisked", "quantity": "2" },
+        { "item": "bean sprouts", "quantity": "1.5 cups" },
+        { "item": "firm tofu, cut into batons", "quantity": "1/2 cup" },
+        { "item": "garlic chives, cut into 3 cm pieces", "quantity": "1/4 cup" },
+        { "item": "finely chopped peanuts", "quantity": "1/4 cup" },
+        { "item": "lime wedges, ground chilli, extra bean sprouts (to serve)", "quantity": "-" }
+      ],
+      "steps": [
+        "Soak the rice noodles in plenty of boiling water for about 5 minutes, then drain and rinse briefly under cold water; use them soon after.",
+        "Stir the tamarind puree, brown sugar, fish sauce and oyster sauce together in a small bowl.",
+        "Heat 2 tbsp oil in a large pan on high, add onion and garlic and cook for about 30 seconds.",
+        "Add the chicken and fry for roughly 1.5 minutes until mostly cooked through.",
+        "Push everything to one side, pour the egg into the empty side, scramble it, then toss through the chicken.",
+        "Add bean sprouts, tofu, noodles and the sauce; toss gently for about 1.5 minutes until the noodles have absorbed the sauce.",
+        "Toss through garlic chives and half the peanuts, then remove from the heat.",
+        "Serve straight away topped with the remaining peanuts, lime wedges, a pinch of chilli and extra bean sprouts on the side."
+      ],
+      "source": "https://www.recipetineats.com/chicken-pad-thai/"
+    },
+    {
+      "id": "chicken-satay",
+      "name": "Thai Chicken Satay with Peanut Sauce",
+      "cuisine": "Thai",
+      "tags": ["skewers", "chicken", "peanut-sauce", "grill", "starter", "bbq", "30min"],
+      "servings": "15 skewers (~6 as a starter)",
+      "time_minutes": 30,
+      "ingredients": [
+        { "item": "chicken thighs, boneless skinless, cut into 2 cm pieces", "quantity": "600 g" },
+        { "item": "curry powder", "quantity": "1 tbsp" },
+        { "item": "white sugar", "quantity": "1 tsp" },
+        { "item": "Thai red curry paste", "quantity": "2 tsp (marinade) + 2 tbsp (sauce)" },
+        { "item": "cooking salt", "quantity": "1 tsp (marinade) + 1 tsp (sauce)" },
+        { "item": "coconut milk, full fat (1 can)", "quantity": "400 ml" },
+        { "item": "natural peanut butter, smooth (100% peanuts)", "quantity": "3/4 cup" },
+        { "item": "white sugar (sauce)", "quantity": "1/4 cup" },
+        { "item": "dark soy sauce", "quantity": "2 tsp" },
+        { "item": "cider vinegar (or white vinegar)", "quantity": "2 tbsp" },
+        { "item": "water", "quantity": "3/4 cup" },
+        { "item": "bamboo skewers (soak in water first)", "quantity": "13-16" },
+        { "item": "peanut oil, for frying", "quantity": "1.5 tbsp" },
+        { "item": "chopped peanuts, lime wedges, coriander, sliced chilli (to serve)", "quantity": "-" }
+      ],
+      "steps": [
+        "Mix the chicken with the marinade ingredients (curry powder, sugar, 2 tsp red curry paste, salt) plus 1/4 cup of the coconut milk; rest for at least 20 minutes, or overnight for best flavour.",
+        "Thread 4-5 chicken pieces onto each skewer.",
+        "Heat the oil in a large pan over medium-high and cook the skewers in batches, about 3 minutes per side, until golden and cooked through.",
+        "For the sauce, combine the remaining coconut milk with the peanut butter, sugar, red curry paste, dark soy, salt, vinegar and water in a saucepan over medium-low.",
+        "Simmer the sauce for about 5 minutes, stirring occasionally, then thin with water until pourable but thick; keep warm.",
+        "Serve the skewers with the sauce on the side for dipping, sprinkled with peanuts, coriander and chilli, with lime and rice alongside."
+      ],
+      "source": "https://www.recipetineats.com/thai-chicken-satay-peanut-sauce/"
+    },
+    {
+      "id": "san-choy-bow",
+      "name": "San Choy Bow (Chinese Lettuce Wraps)",
+      "cuisine": "Chinese",
+      "tags": ["lettuce-wraps", "pork", "quick", "healthy", "low-carb", "starter", "20min"],
+      "servings": "3 as a main / ~6 as a starter",
+      "time_minutes": 20,
+      "ingredients": [
+        { "item": "cornflour (cornstarch)", "quantity": "1.25 tsp" },
+        { "item": "water", "quantity": "3 tbsp" },
+        { "item": "light soy sauce", "quantity": "1.5 tbsp" },
+        { "item": "dark soy sauce", "quantity": "1 tsp" },
+        { "item": "oyster sauce", "quantity": "2 tbsp" },
+        { "item": "sesame oil", "quantity": "1 tsp" },
+        { "item": "Chinese cooking wine (or mirin / dry sherry)", "quantity": "2 tbsp" },
+        { "item": "white sugar", "quantity": "1 tsp" },
+        { "item": "peanut oil", "quantity": "1 tbsp" },
+        { "item": "garlic clove, minced", "quantity": "1 large" },
+        { "item": "ginger, minced", "quantity": "1/2 tsp" },
+        { "item": "pork mince (chicken mince works too)", "quantity": "300 g" },
+        { "item": "onion, finely chopped", "quantity": "1/2" },
+        { "item": "small carrot, finely chopped", "quantity": "1" },
+        { "item": "canned water chestnuts, drained and finely chopped", "quantity": "100 g" },
+        { "item": "baby corn, finely chopped", "quantity": "5" },
+        { "item": "mushrooms (shiitake if possible), finely chopped", "quantity": "5" },
+        { "item": "soft lettuce leaves, crushed peanuts, sliced scallions (to serve)", "quantity": "8 large or 16-20 small leaves" }
+      ],
+      "steps": [
+        "Blend the cornflour with 1 tbsp of the water until smooth, then mix in the rest of the water, both soy sauces, oyster sauce, sesame oil, wine and sugar.",
+        "Heat the peanut oil in a wok or large skillet on high; fry the garlic and ginger briefly, then add the onion and cook for about a minute.",
+        "Add the pork mince and cook until it loses its pink colour.",
+        "Stir in the carrot, water chestnuts, baby corn and mushrooms; cook for about 2 minutes until the carrot has softened.",
+        "Pour in the sauce and cook for around 1.5 minutes until it thickens into a glossy coating over the filling.",
+        "Spoon the filling into lettuce leaves, finish with peanuts and scallions, wrap up and eat."
+      ],
+      "source": "https://www.recipetineats.com/san-choy-bow-chinese-lettuce-wraps/"
+    },
+    {
+      "id": "beef-rendang",
+      "name": "Beef Rendang",
+      "cuisine": "Malaysian",
+      "tags": ["curry", "beef", "slow-cooked", "weekend", "special-occasion", "dry-curry"],
+      "servings": "6",
+      "time_minutes": 200,
+      "ingredients": [
+        { "item": "dried chillies, rehydrated (or 12 large fresh red chillies)", "quantity": "12" },
+        { "item": "small onion, chopped", "quantity": "1" },
+        { "item": "garlic cloves, minced", "quantity": "5" },
+        { "item": "lemongrass stalks, white part only, sliced", "quantity": "3" },
+        { "item": "fresh galangal, finely chopped", "quantity": "1.5 tbsp" },
+        { "item": "fresh ginger, minced", "quantity": "1.5 tbsp" },
+        { "item": "oil (for paste + browning)", "quantity": "2 tbsp + 1 tbsp" },
+        { "item": "chuck steak (or other slow-cooking beef), cut into 4 cm cubes", "quantity": "1 kg" },
+        { "item": "cinnamon stick", "quantity": "1" },
+        { "item": "clove powder", "quantity": "1/4 tsp" },
+        { "item": "star anise", "quantity": "3" },
+        { "item": "cardamom powder", "quantity": "1/2 tsp" },
+        { "item": "lemongrass stick, bottom half only, smashed", "quantity": "1" },
+        { "item": "coconut milk (1 can)", "quantity": "400 ml" },
+        { "item": "tamarind puree", "quantity": "2 tsp" },
+        { "item": "makrut lime leaves, very finely sliced", "quantity": "4 large (or 6 small)" },
+        { "item": "desiccated coconut", "quantity": "1/3 cup" },
+        { "item": "brown sugar (or grated palm sugar)", "quantity": "1 tbsp" },
+        { "item": "salt", "quantity": "1.5 tsp" }
+      ],
+      "steps": [
+        "Blitz all the spice paste ingredients (chillies, onion, garlic, lemongrass, galangal, ginger, 2 tbsp oil) in a food processor until fine.",
+        "Heat 1 tbsp oil in a heavy-based pot on high and brown the beef in two batches; set the beef aside.",
+        "Turn the heat down to medium-low, add the spice paste and fry for 2-3 minutes until darkened and fragrant.",
+        "Return the beef to the pot and add the cinnamon, clove, star anise, cardamom, smashed lemongrass, coconut milk, tamarind, lime leaves, desiccated coconut, sugar and salt; stir to combine.",
+        "Bring to a gentle simmer, then cover with the lid and cook on low for about 1 hour 15 minutes, until the beef is quite tender but not yet falling apart.",
+        "Remove the lid and reduce on medium for 30-40 minutes, stirring occasionally at first and frequently towards the end, until the sauce reduces to a dark paste that coats the beef and the oil separates (this is where the deep colour comes from).",
+        "If the beef is not yet fall-apart tender, add a splash of water and keep cooking briefly; serve with coconut rice."
+      ],
+      "source": "https://www.recipetineats.com/beef-rendang/"
+    }
+  ]
+}
